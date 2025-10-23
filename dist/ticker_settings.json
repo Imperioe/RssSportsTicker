@@ -1,0 +1,13 @@
+{
+    "width": 1920,
+    "height": 80,
+    "font_size": 24,
+    "font_color": "#FFFFFF",
+    "bg_color": "#000000",
+    "font_family": "Arial",
+    "scroll_speed": 10,
+    "step": 1,
+    "feeds": [
+        "https://www.espn.com/espn/rss/news"
+    ]
+}
