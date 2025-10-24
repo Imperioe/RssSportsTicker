@@ -1,3 +1,7 @@
+If you just want to run the ticker and not the code download the exe.
+Click the 3 dots in the top right and then Download:
+https://github.com/Imperioe/RssSportsTicker/blob/main/dist/rss-ticker.exe
+
 The Following Json will be generated on first start:
 
 {
